@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17445374122",
+    "project_id": "terhalproject-83bb5",
+    "storage_bucket": "terhalproject-83bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17445374122:android:816e530fc1239925eae8d3",
+        "android_client_info": {
+          "package_name": "com.example.terhalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7GJa2lQGiLEWEs42qjr1ovP7NBQHZCC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
